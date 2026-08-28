@@ -4,7 +4,7 @@
 
 A quantitative research project investigating the efficiency, calibration and potential tradeability of prediction markets.
 
-The project aims to determine whether systematic differences between market implied probabilities and independantly estimated probabilities can produce profitable trading opportunities after accounting for transaction costs, liquidity and risk.
+The project aims to determine whether systematic differences between market implied probabilities and independantly estimated probabilities can produce profitable trading opportunities accounting for transaction costs, liquidity and risk.
 
 **Status:** In development
 **Started:** September 2026
