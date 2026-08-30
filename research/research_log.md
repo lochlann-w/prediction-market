@@ -1,15 +1,45 @@
-# Date
-28/9
+# 30/9/2026
 
-## Resource
-Polymarket
+## Macro - pass 1
 
-### Finding
+### Resource: [Polymarket](https://polymarket.com/predictions/macro?_sort=liquidity)
 
-### Implication
+#### Findings
+- Prediction contracts regularly exist
+- Liquidity is semi adequate, not at an institutional level
+- Order book available
+- Independant data is easily accessible due to nature of contracts
 
-### Source
-https://polymarket.com/predictions/macro-indicators
+---
+### Resource: [Polymarket documentation](https://docs.polymarket.com/api-reference/rate-limits)
 
-### Decision
+#### Findings
+- Historical prices and trades are both accessible
+- resolved contract data accessible
+- Polymarket contracts are close only in Ireland, data APIs are unrestricted
+- Contract resolution rules are objective
+
+---
+
+### Conclusion
+
+---
+---
+
+## Weather
+
+### Resource: []()
+
+#### Findings
+
+---
+### Resource: []()
+
+#### Findings
+
+---
+#### Conclusion
+
+---
+
 
