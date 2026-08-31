@@ -7,12 +7,21 @@ Determine which prediction market category provides the strongest foundation for
 ---
 
 ## Candidate markets
+| **Market** | Passed screening? |
+|---|:---:|
+| **Macro** | Y |
+| **Weather** | Y |
+| **Global shipping** | N |
+| **Crypto** |  |
+| **Biotech contracts** |  |
+| **Electricity pricing** |  |
+
+See [Research log](research_log.md) for details.
 
 | Market | Historical data | Granularity | Order book | Liquidity | Independent data | Sample size | Backtestability | Trading relevance | Differentiation |
-|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Macro** |  |  |  |  |  |  |  |  |  |
 | **Weather** |  |  |  |  |  |  |  |  |  |
-| **Global shipping** |  |  |  |  |  |  |  |  |  |
 | **Crypto** |  |  |  |  |  |  |  |  |  |
 | **Biotech contracts** |  |  |  |  |  |  |  |  |  |
 | **Electricity pricing** |  |  |  |  |  |  |  |  |  |
