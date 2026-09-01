@@ -1,6 +1,6 @@
 # Prediction Market Quantitative Research
 
-## Overview
+### Overview
 
 A quantitative research project investigating the efficiency, calibration and potential tradeability of prediction markets.
 
@@ -10,28 +10,29 @@ The project aims to determine whether systematic differences between market impl
 **Started:** September 2026
 **Target completion:** November 2026
 
----
 
-# Research question
+### Research question:
+ *Can systematic inefficiencies in prediction market prices be identified and converted into profitable trading strategies?*
 
-Can systematic inefficiencies in prediction market prices be identified and converted into profitable trading strategies?
-
----
-
-# Motivation
+## Motivation
 
 Prediction markets provide continuously updated market prices that can be interpreted as probabilities of future events.
 
 This project investigates whether these probabilities are well calibrated, how efficiently they incorperate new information, and whether derivations from estimated fair value represent tradeable opportunities.
 
----
-
-# Research areas
+## Research areas
 
 - Probability calibration
 - Market efficiency
 - Backtesting
 
-# Technology
+## Technology
+
+- Markdown
 - Python
 - Git / GitHub
+
+### Other
+- *DD/MM/YY* date format
+
+

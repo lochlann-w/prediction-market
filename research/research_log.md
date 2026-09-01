@@ -12,8 +12,6 @@
 - Order book available
 - Independant data is easily accessible due to nature of contracts
 
----
-
 ### Resource: [Polymarket API documentation](https://docs.polymarket.com/api-reference/rate-limits)
 *Accessed 29/9/26*
 
@@ -24,23 +22,18 @@
 - Polymarket contracts are close only in Ireland, data APIs are unrestricted
 - Contract resolution rules are objective
 
-Assume all Polymarket contracts mentioned below follow this unless stated otherwise
-
----
-
 ### Resource: [Kalshi - Economics](https://kalshi.com/search?q=macro&order_by=querymatch&category=economics)
 *Accessed 31/9/26*
 
-### Findings
+#### Findings
 
 - Certain contracts have c150K USD volume. Possibly sufficient for institutional trading.
 - Contracts are not close only in Ireland.
 
 ### Conclusion
 
-Fufills all pass 1 criteria. Low liquidty is slightly deterring, but does not remove macro as a candidate. Independant data source will depend on the final contract(s) selected.
+Passed screening. Low liquidty is slightly deterring, but does not remove macro as a candidate. Independant data source will depend on the final contract(s) selected.
 
----
 ---
 
 ## Weather
@@ -67,13 +60,11 @@ Fufills all pass 1 criteria. Low liquidty is slightly deterring, but does not re
 
 - Large amount of independant data from various sources, including predictions.
 
----
 
-#### Conclusion
+### Conclusion
 
-- Huge amount of historical data on weather is a bonus.
+- Passed screening. Huge amount of historical data on weather is a bonus.
 
----
 ---
 
 ## Global shipping
@@ -96,9 +87,8 @@ Fufills all pass 1 criteria. Low liquidty is slightly deterring, but does not re
 
 ### Conclusion
 
-High volume contracts are non repeating. Resembles election result prediction contracts. Research for Global shipping will not continue past this pass, as available contracts vastly differ over time.
+Failed screening. High volume contracts are non repeating. Resembles election result prediction contracts. Research for Global shipping will not continue past this pass, as available contracts vastly differ over time.
 
----
 ---
 
 ## Crypto
@@ -107,11 +97,10 @@ High volume contracts are non repeating. Resembles election result prediction co
 *Accessed 31/9/26*
 
 #### Findings
+
 - High volume
 - Regularly available contracts
 - Some crypto derivatives are not accessible in ireland
-
----
 
 ### Resource: [Kalshi - crypto](https://kalshi.com/category/crypto)
 *Accessed 31/9/26*
@@ -119,17 +108,69 @@ High volume contracts are non repeating. Resembles election result prediction co
 ### Supporting resource: [Polymarket - crypto](https://polymarket.com/crypto)
 *Accessed 31/9/26*
 
+#### Findings
+
 - High liquidity
 - Order book history available
 - contracts regularly exist
 - Resolution rules are objective
 - Accessible historical prices and trades
 
----
-
-#### Conclusion
+### Conclusion
 
 Passed scerening. High potential for trading due to high volume and liquidity. Accessible historical data.
 
 ---
+
+## Biotech contracts
+
+### Resource: [Kalshi news](https://news.kalshi.com/p/kalshi-biotech-prediction-markets)
+*Accessed 1/10/26*
+
+#### Findings
+
+- Unlikely that independant data source will exist - Contracts introduced  "A publicly listed contract on a trial or regulatory outcome produces a continuously updated, public probability that reflects the weight of the evidence rather than the preferred messaging of the trial sponsor"
+- Contracts in this sector are primarily offered by Kalshi
+- Contract type is new
+
+### Resource: [Kalshi - Biotech](https://kalshi.com/category/financials/biotech)
+*Accessed 1/10/26*
+
+#### Findings
+
+- Low volume
+- Low liquidity
+- Order book history available
+- Objective contract resolution rules
+- Low amount of contracts
+
+### Conclusion
+
+Failed screening, no historical datasets and little to no activity in the market.
+
 ---
+
+## Electricity pricing
+
+### Resource: [Kalshi - Oil and energy](https://kalshi.com/markets/kxpowerkwh/average-us-electricity-price-this-month/kxpowerkwh-26sep11)
+*Accessed 1/10/26*
+
+#### Findings
+
+- Moderate volume
+- Low amount of contracts
+- Resolved contract data available
+- Historical price and trade data available
+- Objective contract resolution rules
+- Low liquidity and high spread
+
+### Resource: [Macrotrends - Electricity prices](https://www.macrotrends.net/3163/us-electricity-prices)
+*Accessed 1/10/26*
+
+#### Findings
+
+- Independant data source available with timestamps
+
+### Conclusion
+
+Failed screening, Liquidty too low and low number of contracts

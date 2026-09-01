@@ -12,9 +12,9 @@ Determine which prediction market category provides the strongest foundation for
 | **Macro** | Y |
 | **Weather** | Y |
 | **Global shipping** | N |
-| **Crypto** |  |
-| **Biotech contracts** |  |
-| **Electricity pricing** |  |
+| **Crypto** | Y |
+| **Biotech contracts** | N |
+| **Electricity pricing** | N |
 
 See [Research log](research_log.md) for details.
 
@@ -23,8 +23,6 @@ See [Research log](research_log.md) for details.
 | **Macro** |  |  |  |  |  |  |  |  |  |
 | **Weather** |  |  |  |  |  |  |  |  |  |
 | **Crypto** |  |  |  |  |  |  |  |  |  |
-| **Biotech contracts** |  |  |  |  |  |  |  |  |  |
-| **Electricity pricing** |  |  |  |  |  |  |  |  |  |
 
 ---
 
